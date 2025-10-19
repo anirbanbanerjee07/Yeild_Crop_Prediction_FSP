@@ -143,6 +143,22 @@ Response example:
 - Add a schema file after training that records exact model input feature names and types; frontend can use that for validation.
 - Containerize with Docker for easy deployment.
 
-## License
-MIT
+## 👥 About Us — Team SmartSaarthi
+***We are a passionate group of Computer Science students dedicated to using technology for social good.  
+Our goal is to bridge the gap between **AI** and **agriculture**, empowering farmers through innovation and accessible technology.***
 
+### 🧑‍🤝‍🧑 Team Members & Roles
+- 👨‍💻 **Anirban Banerjee** — ML Model Development & Backend Integration  
+- 💻 **Himangsu Sen** — Frontend Design & Data Visualization  
+- 🧠 **Susanta Gorai** — Data Collection & Testing
+
+## 👨‍💻 Last Contribution
+
+The last update to this project was made by ❤️ [Anirban Banerjee](https://github.com/anirbanbanerjee07) on `19th October, 2025`.
+
+## ✨ Happy Coding!
+
+Thanks for checking out this project!  
+If you like it, give it a ⭐ and consider contributing.  
+
+☕ Code, coffee, repeat!!
