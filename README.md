@@ -1,4 +1,4 @@
-# Kishaan Deepak — Crop Yield Prediction (Full-stack)
+# 🌾 Kishaan Deepak — Crop Yield Prediction (Full-stack)
 
 ## Overview
 This repository is a full-stack crop yield prediction app. It provides:
