@@ -143,7 +143,7 @@ Response example:
 - Add a schema file after training that records exact model input feature names and types; frontend can use that for validation.
 - Containerize with Docker for easy deployment.
 
-## 👥 About Us — Team SmartSaarthi
+## 👥 About Us — Team Kishaan Deepak
 ***We are a passionate group of Computer Science students dedicated to using technology for social good.  
 Our goal is to bridge the gap between **AI** and **agriculture**, empowering farmers through innovation and accessible technology.***
 
